@@ -1,0 +1,10 @@
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\bin\Debug\PisanjeUFile.exe.config
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\bin\Debug\PisanjeUFile.exe
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\bin\Debug\PisanjeUFile.pdb
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\obj\Debug\MiniERP.csproj.CoreCompileInputs.cache
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\obj\Debug\MiniERP.csproj.CopyComplete
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\obj\Debug\PisanjeUFile.exe
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\obj\Debug\PisanjeUFile.pdb
+C:\Users\Ana-Marija\source\repos\PisanjeUFile\obj\Debug\MiniERP.csprojAssemblyReference.cache

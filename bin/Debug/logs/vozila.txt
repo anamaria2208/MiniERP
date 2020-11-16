@@ -1,0 +1,1 @@
+[{"Vlasnik":{"Ime":"ana-maria","Prezime":"olujic","DatumRodjenja":"1992-08-22T00:00:00"},"Model":"bmw","Vin":null},{"Vlasnik":{"Ime":"pero","Prezime":"peric","DatumRodjenja":"1985-07-15T00:00:00"},"Model":"audi","Vin":"12345678912345678"}]
